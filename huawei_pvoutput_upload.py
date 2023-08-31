@@ -2,6 +2,7 @@
 
 import requests
 import datetime
+# Note I am using a particular version 0.03 of this library, see Dockerfile
 from huawei_solar import HuaweiSolar
 
 try:
